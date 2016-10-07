@@ -1,0 +1,23 @@
+{
+  "labId": "01-intro-01-intro-to-devnet",
+  "title": "Overview of DevNet",
+  "slug": "Learn about DevNet's features and get Partnering and Marketing resources.",
+  "time": 5,
+  "byod": true,
+  "files": [
+    {"title": "1.md"}
+  ],
+  "tags": [
+	{"title": "DevNet"}
+  ],
+  "related": [
+    {
+      "labId": "01-intro-02-overview-of-modules",
+	  "title": "Overview of Modules in This Track"
+    }
+  ],
+  "authors": [
+  	{"name": ""}
+  ],
+  "active": true
+}
